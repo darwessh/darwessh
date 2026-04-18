@@ -22,9 +22,8 @@ BSc Applied Computing (Information Security & Forensics) — KCA University, par
 ---
 
 ## 🛠️ Stack
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darwessh/darwessh/main/stack.svg" alt="Tech Stack" />
+  <img src="https://raw.githack.com/darwessh/darwessh/main/stack.svg" alt="Tech Stack" />
 </p>
 
 ---
