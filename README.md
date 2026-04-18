@@ -1,10 +1,10 @@
 <div align="center">
 
 # Abdirahman Mohamed
-### ERPNext Consultant · AWS Cloud Engineer · API Security
+### ERPNext Consultant · Offensive Security Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/darwesh.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://darwesh.tech)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darwesh)
+[![Portfolio](https://img.shields.io/badge/darwesh.tech-000000?style=for-the-badge&logo=chrome&logoColor=white)](https://darwesh.tech)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=grey](https://medium.com/@darwesh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darwesh.cm@gmail.com)
 
 </div>
@@ -13,7 +13,7 @@
 
 ## About
 
-I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. Currently horning my coding skills and leveraging AI to build cloud based solutions.
+I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. Also Currently horning my coding skills and leveraging AI to build cloud based solutions.
 
 
 ---
