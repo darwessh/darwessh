@@ -24,26 +24,36 @@ BSc Applied Computing (Information Security & Forensics) — KCA University, par
 ## 🛠️ My Tech Stack
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=erpnext,frappe,python&theme=dark" /><br>
-  
-  <img src="https://skillicons.dev/icons?i=aws,lambda,dynamodb,eventbridge&theme=dark" /><br>
-  
-  <img src="https://skillicons.dev/icons?i=kali,linux,mysql,mongodb&theme=dark" /><br>
-  
-  <img src="https://skillicons.dev/icons?i=bash,terraform,docker,githubactions&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>ERP Systems</b></td>
+    <td align="center" width="120"><b>Cloud (AWS)</b></td>
+    <td align="center" width="120"><b>Security</b></td>
+    <td align="center" width="120"><b>Automation</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=erpnext&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" />
+    </td>
+  </tr>
+</table>
 ---
 
-## 🎓 Training
-
-**ALX Africa** — AWS Cloud Computing Bootcamp *(May 2024 – Jan 2025)*
-Built event-driven apps with Lambda, EventBridge, SNS, API Gateway, and DynamoDB. Configured VPC, IAM, and encryption. Mentored by AWS enterprise architects.
-
-**Cyber Shujaa** — Cloud & Network Security *(Jan 2024 – May 2024)*
-Serianu / USIU / Kenya Bankers Association. Penetration testing, firewall configuration, Wireshark traffic analysis, network segmentation.
-
----
 
 ## 📜 Certifications
 
@@ -55,7 +65,7 @@ Serianu / USIU / Kenya Bankers Association. Penetration testing, firewall config
 
 ---
 
-## ✍️ Writing
+## ✍️Some Of My Technical Writings
 
 - 🔐 [API Security Vulnerabilities: A Deep Dive](https://medium.com/@darwesh)
 - ☁️ [Serverless Architectures on AWS](https://medium.com/@darwesh)
