@@ -1,12 +1,12 @@
 <div align="center">
 
 # Abdirahman Mohamed
-### ERPNext Consultant · Offensive Security Enthusiast
+### ERPNext Consultant · AWS Cloud Engineer · API Security
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-darwesh.tech-000000?style=flat&logo=safari&logoColor=grey)](https://darwesh.tech)
-[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=flat&logo=medium&logoColor=black)](https://medium.com)
-[![Email](https://img.shields.io/badge/Email-darwesh.cm@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:darwesh.cm@gmail.com)
-[![Location](https://img.shields.io/badge/Nairobi-Kenya-00A86B?style=flat&logo=googlemaps&logoColor=red)](#)
+[![Portfolio](https://img.shields.io/badge/darwesh.tech-Portfolio-F5F5F5?style=flat-square&logo=safari&logoColor=black)](https://darwesh.tech)
+[![Medium](https://img.shields.io/badge/Medium-Writing-F5F5F5?style=flat-square&logo=medium&logoColor=black)](https://medium.com/@darwesh)
+[![Email](https://img.shields.io/badge/Gmail-darwesh.cm@gmail.com-F5F5F5?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:darwesh.cm@gmail.com)
+[![Location](https://img.shields.io/badge/Nairobi-Kenya-F5F5F5?style=flat-square&logo=googlemaps&logoColor=34A853)](#)
 
 </div>
 
@@ -14,8 +14,9 @@
 
 ## About
 
-I implement and configure ERPNext for businesses across different industries, and intergrate cloud based solutions. 
-Background in cloud security and API security.
+I implement and configure ERPNext for businesses across retail and hospitality, and build cloud infrastructure on AWS. My edge is the overlap — I don't just set up ERP, I can deploy, secure, and automate around it too.
+
+Background in cloud security and API security. Currently building toward solo ERPNext client delivery and AWS Solutions Architect certification.
 
 BSc Applied Computing (Information Security & Forensics) — KCA University, part-time.
 
@@ -25,53 +26,71 @@ BSc Applied Computing (Information Security & Forensics) — KCA University, par
 
 **ERP & Business Systems**
 
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=frappé&logoColor=purple)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-F5F5F5?style=flat-square&logo=frappe&logoColor=0089FF)
+![Frappe](https://img.shields.io/badge/Frappe-F5F5F5?style=flat-square&logo=frappe&logoColor=0089FF)
+![RECTS ERP](https://img.shields.io/badge/RECTS_ERP-F5F5F5?style=flat-square&logo=databricks&logoColor=2C3E50)
 
 Chart of accounts · Tax templates · Print formats · Roles & permissions · POS module · Hotel module
 
 **Cloud — AWS**
 
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=orange)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=black)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=green)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-F5F5F5?style=flat-square&logo=awslambda&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API_Gateway-F5F5F5?style=flat-square&logo=amazonapigateway&logoColor=FF4F8B)
+![S3](https://img.shields.io/badge/S3-F5F5F5?style=flat-square&logo=amazons3&logoColor=569A31)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-F5F5F5?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
+![EventBridge](https://img.shields.io/badge/EventBridge-F5F5F5?style=flat-square&logo=amazonaws&logoColor=E7157B)
+![SNS](https://img.shields.io/badge/SNS-F5F5F5?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![VPC](https://img.shields.io/badge/VPC-F5F5F5?style=flat-square&logo=amazonaws&logoColor=232F3E)
+![IAM](https://img.shields.io/badge/IAM-F5F5F5?style=flat-square&logo=amazonaws&logoColor=DD344C)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-F5F5F5?style=flat-square&logo=amazonaws&logoColor=DD344C)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-F5F5F5?style=flat-square&logo=amazoncloudwatch&logoColor=FF4F8B)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-F5F5F5?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 Serverless-first · Event-driven architectures
 
 **Security**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-F5F5F5?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-F5F5F5?style=flat-square&logo=wireshark&logoColor=1679A7)
 
 Vulnerability assessments · Penetration testing · Network segmentation · Traffic analysis
 
 **Automation & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F5F5F5?style=flat-square&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-F5F5F5?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![MySQL](https://img.shields.io/badge/MySQL-F5F5F5?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-F5F5F5?style=flat-square&logo=mongodb&logoColor=47A248)
+![VMware](https://img.shields.io/badge/VMware-F5F5F5?style=flat-square&logo=vmware&logoColor=607078)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-F5F5F5?style=flat-square&logo=virtualbox&logoColor=183A61)
 
 ---
 
+## 🎓 Training
+
+**ALX Africa** — AWS Cloud Computing Bootcamp *(May 2024 – Jan 2025)*
+Built event-driven apps with Lambda, EventBridge, SNS, API Gateway, and DynamoDB. Configured VPC, IAM, and encryption. Mentored by AWS enterprise architects.
+
+**Cyber Shujaa** — Cloud & Network Security *(Jan 2024 – May 2024)*
+Serianu / USIU / Kenya Bankers Association. Penetration testing, firewall configuration, Wireshark traffic analysis, network segmentation.
 
 ---
 
-## ✍️ Some Of My Blogs
+## 📜 Certifications
 
-- 🔐 [API Security Vulnerabilities: A Deep Dive](https://medium.com)
-- ☁️ [Serverless Architectures on AWS](https://medium.com)
-- ⚙️ [Infrastructure as Code with Terraform](https://medium.com)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-F5F5F5?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![APISEC](https://img.shields.io/badge/APISEC_Practitioner-Certified-F5F5F5?style=flat-square&logo=jsonwebtokens&logoColor=E63946)
+![KENET](https://img.shields.io/badge/KENET_Cybersecurity-Advanced-F5F5F5?style=flat-square&logo=hackthebox&logoColor=005F73)
+![ALX](https://img.shields.io/badge/ALX_AWS_Academy-Graduate-F5F5F5?style=flat-square&logo=amazonaws&logoColor=232F3E)
+![SAA](https://img.shields.io/badge/Solutions_Architect-Active_Candidate-F5F5F5?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+---
+
+## ✍️ Writing
+
+- 🔐 [API Security Vulnerabilities: A Deep Dive](https://medium.com/@darwesh)
+- ☁️ [Serverless Architectures on AWS](https://medium.com/@darwesh)
+- ⚙️ [Infrastructure as Code with Terraform](https://medium.com/@darwesh)
 
 ---
 
