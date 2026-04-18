@@ -3,9 +3,11 @@
 # Abdirahman Mohamed
 ### ERPNext Consultant · Offensive Security Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/darwesh.tech-000000?style=for-the-badge&logo=safari&logoColor=blue)](https://darwesh.tech)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@darwesh)
+
+[![Portfolio](https://img.shields.io/badge/darwesh.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://darwesh.tech)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darwesh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darwesh.cm@gmail.com)
+
 
 </div>
 
