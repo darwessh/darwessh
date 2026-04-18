@@ -21,11 +21,18 @@ BSc Applied Computing (Information Security & Forensics) — KCA University, par
 
 ---
 
-## 🛠️ Stack
-<p align="center">
-  <img src="https://raw.githack.com/darwessh/darwessh/main/stack.svg" alt="Tech Stack" />
-</p>
+## 🛠️ My Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=erpnext,frappe,python&theme=dark" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=aws,lambda,dynamodb,eventbridge&theme=dark" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=kali,linux,mysql,mongodb&theme=dark" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=bash,terraform,docker,githubactions&theme=dark" />
+</p>
 ---
 
 ## 🎓 Training
