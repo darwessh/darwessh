@@ -13,11 +13,8 @@
 
 ## About
 
-I implement and configure ERPNext for businesses across retail and hospitality, and build cloud infrastructure on AWS. My edge is the overlap — I don't just set up ERP, I can deploy, secure, and automate around it too.
+I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. Currently horning my coding skills and leveraging AI to build cloud based solutions.
 
-Background in cloud security and API security. Currently building toward solo ERPNext client delivery and AWS Solutions Architect certification.
-
-BSc Applied Computing (Information Security & Forensics) — KCA University, part-time.
 
 ---
 
@@ -61,18 +58,15 @@ BSc Applied Computing (Information Security & Forensics) — KCA University, par
 
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![APISEC](https://img.shields.io/badge/APISEC_Practitioner-Certified-E63946?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![KENET](https://img.shields.io/badge/KENET_Cybersecurity-Advanced-005F73?style=flat-square&logo=hackthebox&logoColor=white)
 ![ALX](https://img.shields.io/badge/ALX_AWS_Academy-Graduate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![SAA](https://img.shields.io/badge/Solutions_Architect-Active_Candidate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
 
 ---
 
 ## ✍️Some Of My Technical Writings
 
-- 🔐 [API Security Vulnerabilities: A Deep Dive](https://medium.com/@darwesh)
-- ☁️ [Serverless Architectures on AWS](https://medium.com/@darwesh)
-- ⚙️ [Infrastructure as Code with Terraform](https://medium.com/@darwesh)
+- 🔐 [ACapturing Clear Text Passwords With Wireshark In Kali Linux Virtual OS](https://medium.com/@darweshy/capturing-clear-text-passwords-with-wireshark-in-kali-linux-virtual-os-d1dbc66e5358)
+- ☁️ [Privilege Escalation in AWS: Exploiting IAM Policy Rollback with Cloud Goat](https://medium.com/@darweshy/privilege-escalation-in-aws-exploiting-iam-policy-rollback-with-cloud-goat-e1052a751b75)
+  
 
 ---
-
-*Building cloud-native ERP systems for East African businesses.*
