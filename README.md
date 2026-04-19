@@ -70,5 +70,7 @@ I implement and configure ERPNext for businesses across various industries and a
 - 🔐 [ACapturing Clear Text Passwords With Wireshark In Kali Linux Virtual OS](https://medium.com/@darweshy/capturing-clear-text-passwords-with-wireshark-in-kali-linux-virtual-os-d1dbc66e5358)
 - ☁️ [Privilege Escalation in AWS: Exploiting IAM Policy Rollback with Cloud Goat](https://medium.com/@darweshy/privilege-escalation-in-aws-exploiting-iam-policy-rollback-with-cloud-goat-e1052a751b75)
   
-
+### 📈 GitHub Metrics
+![Stats](https://github-readme-stats.vercel.app/api?username=darwessh&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwessh&layout=compact&theme=tokyonight&hide_border=true)
 ---
