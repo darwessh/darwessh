@@ -15,7 +15,7 @@
 
 ## About
 
-I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. I`m Also Currently honing my coding skills and leveraging AI tools to build cloud based solutions.
+I implement and configure ERPNext for businesses across various industries. Currently honing my coding skills and leveraging AI tools to build cloud based solutions.
 
 
 ---
