@@ -15,7 +15,7 @@
 
 ## About
 
-I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. Also Currently honing my coding skills and leveraging AI to build cloud based solutions.
+I implement and configure ERPNext for businesses across various industries and automated cloud based solutions. I`m Also Currently honing my coding skills and leveraging AI tools to build cloud based solutions.
 
 
 ---
@@ -59,7 +59,7 @@ I implement and configure ERPNext for businesses across various industries and a
 ## 📜 Certifications
 
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![APISEC](https://img.shields.io/badge/APISEC_Practitioner-Certified-E63946?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![APISEC](https://img.shields.io/badge/APISEC_-Certified API Security Practitioner-E63946?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![ALX](https://img.shields.io/badge/ALX_AWS_Academy-Graduate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 
